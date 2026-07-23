@@ -31,5 +31,4 @@ Azaan does not collect data from anyone, including children.
 Any change to this policy will be published at this page.
 
 ## Contact
-Questions: open an issue at https://github.com/vikasyadavmgh1/azaan or email
-vikashyadavmgh2@gmail.com
+Questions: use the contact email on the app's store listing.
